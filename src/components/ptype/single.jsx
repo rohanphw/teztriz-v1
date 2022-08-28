@@ -5,10 +5,10 @@ import Navbar from "../Navbar";
 const Single = () => {
   return (
     <div className="bg-black min-h-screen">
-      <Navbar />
+      <Navbar/>
       <div className="container pt-10 mx-auto">
         <div className="flex justify-center">
-          <iframe src="https://tetris-bare-bone.vercel.app/" height="800" width="100%"> </iframe>
+          <iframe src="https://tetris-bare-bone.vercel.app/" height="800" width="100%"></iframe>
         </div>
       </div>
     </div>
