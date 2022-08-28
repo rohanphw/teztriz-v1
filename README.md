@@ -1,5 +1,5 @@
 
-Install dependencies
+## Install dependencies
 ```bash
 cd react-tezos-template
 yarn install
